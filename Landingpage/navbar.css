@@ -94,3 +94,22 @@ img{
 .bx{
     font-size: 3.5rem;
 }
+
+#og-button {
+    background-color: #FFA500;
+    color: white;
+    padding: 0px 5px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#og-button a {
+    color: white;
+    text-decoration: none;
+}
+
+#og-button:hover {
+    transform: translateY(-1px);
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.6);
+}
